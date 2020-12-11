@@ -16,7 +16,6 @@
 
 <br/>
 <br/>
----
 
 
 ![Anmol's github stats](https://github-readme-stats.vercel.app/api?username=anmol-Git&show_icons=true&hide_border=true)
