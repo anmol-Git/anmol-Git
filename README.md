@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate  on any open source project on android
 - 🚀 Looking for help with Android 
 - 🙋‍♂️ Ask me about Java , kotlin, oops and Android
-- 🏠 How to reach me  [<img align="center"  alt="Anmol | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- 🏠 How to reach me  [<img align="center" alt="Anmol | LinkedIn" width="62px" height="18px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 - ⚡ Fun fact: I am a  Super Saiyyan 😜
 
 
