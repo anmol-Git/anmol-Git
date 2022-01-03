@@ -18,7 +18,10 @@
 <br/>
 
 
-![Anmol's github stats](https://github-readme-stats.vercel.app/api?username=anmol-Git&show_icons=true&hide_border=true)
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anmol-Git&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anmol-Git&theme=radical" />
+</p>
 
 [linkedin]: https://www.linkedin.com/in/anmol-sharma-486984192
