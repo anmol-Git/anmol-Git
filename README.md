@@ -4,11 +4,11 @@
 
 ## I'm an engineering Student !! 
 
-- 😄 I'm currently working on native android development
-- ✍️ I’m currently learning more in android development & DSA   
-- 👯 I’m looking to collaborate  on any open source project on android
+- 😄 I'm currently working on native android & flutter development
+- ✍️ I’m currently learning more in flutter & DSA   
+- 👯 I’m looking to collaborate  on  open source project 
 - 🚀 Looking for help with Android 
-- 🙋‍♂️ Ask me about Java , kotlin, oops and Android
+- 🙋‍♂️ Ask me about Java , kotlin, flutter and Android
 - 🏠 How to reach me  [<img align="center" alt="Anmol | LinkedIn" width="62px" height="18px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 - ⚡ Fun fact: I am a  Super Saiyyan 😜
 
