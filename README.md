@@ -1,6 +1,5 @@
-
-### Hey there I'm Anmol :grinning:
-
+## Hey there I'm Anmol :grinning:
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 80%" />
 
 ## I'm an engineering Student !! 
 
